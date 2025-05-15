@@ -1,4 +1,4 @@
-# Undergrad_FinalMajorProject
+# TensorFlow - 3D GAN for Volumetric data synthesis
 
 Python 3.12, TensorFlow 2.16.2
 
