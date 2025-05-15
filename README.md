@@ -1,9 +1,13 @@
 # TensorFlow - 3D GAN for Volumetric data synthesis
-
 Python 3.12, TensorFlow 2.16.2
 
-3D GAN architecture - generating 3D CT volumes from input 2D X-ray projections.
+Final Major Project (FMP) – Undergraduate-Bournemouth University, 2025
 
+This project implements a 3D Generative Adversarial Network (GAN) to synthesise a volumetric CT scans from 2D X-ray Projections. Aim to explore deep-learning methods for reconstructing 3D medical imagery, which has potential implications in medical imaging.
 <img width="688" alt="Screenshot 2025-05-15 at 18 57 32" src="https://github.com/user-attachments/assets/ce95744b-f0b7-4916-8842-3ac0d7cc10fb" />
+## Overview 
+- Input: 
 
+## Model Architecture 
+Dual encoder-decoder with feature-fusion and skip connections. 
 <img width="738" alt="Screenshot 2025-05-15 at 18 44 47" src="https://github.com/user-attachments/assets/97eddc5e-887f-4806-9005-94d07a253ea2" />
