@@ -1,5 +1,5 @@
 # TensorFlow - 3D GAN for Volumetric data synthesis
-Python 3.12, TensorFlow 2.16.2
+Python 3.12, TensorFlow 2.16.2, 
 Final Major Project (FMP) – Undergraduate-Bournemouth University, 2025
 
 Link to the breakdown and results video - 
