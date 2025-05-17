@@ -4,6 +4,7 @@ Python 3.12, TensorFlow 2.16.2
 Final Major Project (FMP) – Undergraduate-Bournemouth University, 2025
 
 This project implements a 3D Generative Adversarial Network (GAN) to synthesise a volumetric computed-tomography (CT) scans from 2D X-ray Projections. Aim to explore deep-learning methods for reconstructing 3D medical imagery, which has potential implications in medical imaging.
+
 <img width="688" alt="Screenshot 2025-05-15 at 18 57 32" src="https://github.com/user-attachments/assets/ce95744b-f0b7-4916-8842-3ac0d7cc10fb" />
 ## Overview 
 - Input: Two 2D X-ray projections (posterior-anterior, lateral views)
