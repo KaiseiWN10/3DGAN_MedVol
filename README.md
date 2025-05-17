@@ -6,6 +6,7 @@ Final Major Project (FMP) – Undergraduate-Bournemouth University, 2025
 This project implements a 3D Generative Adversarial Network (GAN) to synthesise a volumetric computed-tomography (CT) scans from 2D X-ray Projections. Aim to explore deep-learning methods for reconstructing 3D medical imagery, which has potential implications in medical imaging.
 
 <img width="688" alt="Screenshot 2025-05-15 at 18 57 32" src="https://github.com/user-attachments/assets/ce95744b-f0b7-4916-8842-3ac0d7cc10fb" />
+
 ## Overview 
 - Input: Two 2D X-ray projections (posterior-anterior, lateral views)
 - Ouput: A synthesised 3D volumetric representation
@@ -16,6 +17,7 @@ The model is based on a dual-path encoder-decoder GAN framework with 3D convolut
 - Feature fusion layers to integrate multi-scale information
 - Skip connections to preserve spatial consistency
 - PatchGAN discriminator adapted for volumetric data
+- 
 <img width="738" alt="Screenshot 2025-05-15 at 18 44 47" src="https://github.com/user-attachments/assets/97eddc5e-887f-4806-9005-94d07a253ea2" />
 
 ## Techniques and Features 
