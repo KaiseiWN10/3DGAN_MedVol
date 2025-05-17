@@ -17,7 +17,7 @@ The model is based on a dual-path encoder-decoder GAN framework with 3D convolut
 - Feature fusion layers to integrate multi-scale information
 - Skip connections to preserve spatial consistency
 - PatchGAN discriminator adapted for volumetric data
-- 
+  
 <img width="738" alt="Screenshot 2025-05-15 at 18 44 47" src="https://github.com/user-attachments/assets/97eddc5e-887f-4806-9005-94d07a253ea2" />
 
 ## Techniques and Features 
