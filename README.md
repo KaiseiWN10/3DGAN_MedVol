@@ -25,7 +25,7 @@ The model is based on a dual-path encoder-decoder GAN framework with 3D convolut
 
 ## Dataset
 Link to the dataset I used for this project-
-[## Techniques and Features](https://faspex.cancerimagingarchive.net/aspera/faspex/public/package?context=eyJyZXNvdXJjZSI6InBhY2thZ2VzIiwidHlwZSI6ImV4dGVybmFsX2Rvd25sb2FkX3BhY2thZ2UiLCJpZCI6IjU5MiIsInBhc3Njb2RlIjoiMDNkOWZmMzE2ZmE3NmQ3YzlmZmEyZWFhZDg2ZjkxNTJjZTFhY2FhNSIsInBhY2thZ2VfaWQiOiI1OTIiLCJlbWFpbCI6ImhlbHBAY2FuY2VyaW1hZ2luZ2FyY2hpdmUubmV0In0=&redirected=true&authenticated=true) 
+(https://faspex.cancerimagingarchive.net/aspera/faspex/public/package?context=eyJyZXNvdXJjZSI6InBhY2thZ2VzIiwidHlwZSI6ImV4dGVybmFsX2Rvd25sb2FkX3BhY2thZ2UiLCJpZCI6IjU5MiIsInBhc3Njb2RlIjoiMDNkOWZmMzE2ZmE3NmQ3YzlmZmEyZWFhZDg2ZjkxNTJjZTFhY2FhNSIsInBhY2thZ2VfaWQiOiI1OTIiLCJlbWFpbCI6ImhlbHBAY2FuY2VyaW1hZ2luZ2FyY2hpdmUubmV0In0=&redirected=true&authenticated=true) 
 
 ## Future Work 
 While the results demonstrate promising progress, several limitations provide avenues for future enhancement.
