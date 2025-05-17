@@ -1,10 +1,9 @@
 # TensorFlow - 3D GAN for Volumetric data synthesis
 Python 3.12, TensorFlow 2.16.2
+Final Major Project (FMP) – Undergraduate-Bournemouth University, 2025
 
 Link to the breakdown and results video - 
 https://www.youtube.com/watch?v=fsqkFNdqEkw
-
-Final Major Project (FMP) – Undergraduate-Bournemouth University, 2025
 
 This project implements a 3D Generative Adversarial Network (GAN) to synthesise a volumetric computed-tomography (CT) scans from 2D X-ray Projections. Aim to explore deep-learning methods for reconstructing 3D medical imagery, which has potential implications in medical imaging.
 
