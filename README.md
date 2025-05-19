@@ -12,7 +12,13 @@ This project implements a 3D Generative Adversarial Network (GAN) to synthesise 
 ## Overview 
 - Input: Two 2D X-ray projections (posterior-anterior, lateral views)
 - Ouput: A synthesised 3D volumetric representation
-- Objective: Providing a cheap, less-ionising alternative to CT scanning 
+- Objective: Providing a cheap, less-ionising alternative to CT scanning
+
+## Model Features
+- Dynamic loading and memory-efficient batching of large nii.gz CT scans
+- Preprocessing and normalising of 3D volumes
+- Projection for synthetic X-ray generation
+- Loss components - adversarial, reconstruction & projection-based
 
 ## Model Architecture 
 The model is based on a dual-path encoder-decoder GAN framework with 3D convolutional layers. Key features include:
